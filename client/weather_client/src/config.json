@@ -1,0 +1,18 @@
+{   
+    "LOADSMART_WEATHER_API": {
+      "URL": "http://35.160.19.185/api/",
+      "RESOURCES": {
+        "AUTH": "auth/",
+        "CREATE_USER": "user/create/",
+        "HISTORY_WEATHER": "weather/history/",
+        "SEARCH_WEATHER": "weather/search/"
+      }
+    },
+    "GOOGLE_API": {
+      "URL": "https://maps.googleapis.com/maps/api/",
+      "RESOURCES": {
+        "AUTO_COMPLETE_ENDPOINT": "place/autocomplete/json",
+        "DETAIL_ENDPOINT": "place/details/json"
+      }
+    }
+  }

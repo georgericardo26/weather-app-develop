@@ -1,0 +1,8 @@
+access_key=AKIARQ3UGJV7AXRLGMPB
+secret_key=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
+
+# weather_api
+# weather-api.cafan7lnuthi.us-west-2.rds.amazonaws.com
+# postgres
+# weather_api_base_2021
+# 5432
